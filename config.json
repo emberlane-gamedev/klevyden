@@ -1,0 +1,6 @@
+{
+  "ymapsKey": "9ea5c378-5a27-45a1-86bc-5fa3bc2d4284",
+  "metBase": "https://api.met.no/weatherapi/locationforecast/2.0/compact",
+  "searchEnabled": true,
+  "searchPerDay": 30
+}
