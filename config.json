@@ -1,6 +1,6 @@
 {
   "ymapsKey": "9ea5c378-5a27-45a1-86bc-5fa3bc2d4284",
-  "metBase": "https://api.met.no/weatherapi/locationforecast/2.0/compact",
+  "metBase": "https://2.26.60.76/klev-fc",
   "searchEnabled": true,
   "searchPerDay": 30
 }
